@@ -1,0 +1,49 @@
+.small{
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.big{
+    height: 600px;
+    width: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+.friend1 {
+    background-image: url(../../images/friend1.jpg);
+}
+
+.friend2{
+    background-image: url(../../images/friend2.jpg);
+}
+
+.friend3{
+    background-image: url(../../images/friend3.jpg);
+}
+
+.friend4{
+    background-image: url(../../images/friend4.jpg);
+}
+
+.friend5{
+    background-image: url(../../images/friend5.jpg);
+}
+
+.friend6{
+    background-image: url(../../images/friend6.jpg);
+}
+
+.friend7{
+    background-image: url(../../images/friend7.jpg);
+}
+
+.friend8{
+    background-image: url(../../images/friend8.jpg);
+}
+
+.friend9{
+    background-image: url(../../images/friend9.jpg);
+}
